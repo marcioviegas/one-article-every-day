@@ -1,4 +1,4 @@
-#[6 Signs Your Corporate Culture Is a Liability](https://hbr.org/2019/12/6-signs-your-corporate-culture-is-a-liability?utm_medium=social&utm_source=linkedin&utm_campaign=hbr)
+# [6 Signs Your Corporate Culture Is a Liability](https://hbr.org/2019/12/6-signs-your-corporate-culture-is-a-liability?utm_medium=social&utm_source=linkedin&utm_campaign=hbr)
 
 * "Just 28% of employees strongly agree that there is alignment between their company’s actions and its stated values"
 * "So, how do organizations make the shift from reactive cultural clean-up to proactive cultural vigilance?"
