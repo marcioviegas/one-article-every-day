@@ -4,4 +4,4 @@ During an endless amount of time, and once a day, I will be reading and aggregat
 
 ## 2019
 
-1. `12/06/2019` [6 Signs Your Corporate Culture Is a Liability]((2019/6_Signs_Your_Corporate_Culture_Is_a_Liability.md))
+1. `12/06/2019` [6 Signs Your Corporate Culture Is a Liability](2019/6_Signs_Your_Corporate_Culture_Is_a_Liability.md)
