@@ -1,4 +1,4 @@
-# [How Machine Learning Can Find Extremists on Social Media](https://insights.som.yale.edu/insights/how-machine-learning-can-find-extremists-on-social-media )
+# [How Machine Learning Can Find Extremists on Social Media](https://insights.som.yale.edu/insights/how-machine-learning-can-find-extremists-on-social-media)
 
 * “Twitter used to be a joke, like a fun thing for kids,” says Tauhid Zaman, an associate professor of operations management at Yale SOM. “Now it’s a national security issue.”
 
