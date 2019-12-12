@@ -10,3 +10,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 4. `12/09/2019` [How Managers Become Leaders](2019/How_Managers_Become_Leaders.md)
 5. `12/10/2019` [The Surprising Power of Small Data](2019/The_Surprising_Power_of_Small_Data.md)
 6. `12/11/2019` [Why Performance Reviews Aren’t Working](2019/Why_Performance_Reviews_Arent_Working.md)
+7. `12/12/2019` [How Machine Learning Can Find Extremists on Social Media](2019/How_Machine_Learning_Can_Find_Extremists_on_Social_Media.md)
