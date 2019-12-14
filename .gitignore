@@ -1,1 +1,5 @@
 .idea
+app.js
+package.json
+package-lock.json
+test.txt
