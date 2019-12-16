@@ -13,3 +13,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 7. `12/12/2019` [How Machine Learning Can Find Extremists on Social Media](2019/How_Machine_Learning_Can_Find_Extremists_on_Social_Media.md)
 8. `12/13/2019` [What the “Best Companies to Work For” Do Differently](2019/What_the_Best_Companies_to_Work_For_Do_Differently.md)
 9. `12/14/2019` [What Kind of Chief Innovation Officer Does Your Company Need?](2019/What_Kind_of_Chief_Innovation_Officer_Does_Your_Company_Need.md)
+10. `12/15/2019` [Is your work ethic becoming a liability?](2019/Is_your_work_ethic_becoming_a_liability.md)

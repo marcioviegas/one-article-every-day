@@ -1,0 +1,35 @@
+# [Is your work ethic becoming a liability?](https://www.linkedin.com/pulse/your-work-ethic-becoming-liability-paul-wyman/)
+
+* Busy is boring. That you’re “busy” tells me nothing. It may be the least interesting thought you can have about your working life. Nevertheless, the story of busyness has crowded out all other reflections on work. In many cultures, it remains a badge of honor to be busy, to be double and triple booked, to have an endless to-do list.
+
+* Busy has become a surrogate for important: if I’m busy, I must be in demand, I must be so essential to my business that every moment of my time must be packed to overflowing. 
+
+* When asked for the secret to his success, John Wooden, the legendary UCLA basketball coach, said that you should never confuse activity with accomplishment. Wooden’s philosophy hasn’t penetrated the many corporate cultures which still fetishize activity. Instead of focusing on how to move forward towards a meaningful goal, I’ve seen many clients give away their precious time and energy in a pointless competition over who comes into the office earliest and leaves latest
+
+* Long before they cause physical illness, exhaustion and burnout lead to presenteeism, in which employees inwardly give up and emotionally disengage, but still show up and draw a paycheck. Gallup’s annual “State of the Workplace” studies have shown the rates of disengagement at above 33%, and rising year over year.
+
+* Perhaps least visible, but potentially most damaging of all, are the ways in which exhaustion impairs the ability to think clearly, and undermines individual and collective resilience in the face of change. In a knowledge-based, collaboration-driven organization, this combination can be the proverbial kiss of death when an organization encounters a need to adapt.
+
+* I want to be able to say ‘I’m tired,’ and have someone actually care, rather than look down their nose at me. It’s like everyone has forgotten that being on your email at 11 p.m. isn’t normal. Actually, that’s not quite right. It is normal around here, and that’s the problem.
+
+* Exhausted mind and body is stripped of the energy required for what the workplace now most needs and values: the ability to think creatively, question assumed constraints, establish deep, high-trust connections and collaborate effectively in diverse teams
+
+* In place of purposeful action towards a worthy goal, there’s anxiety-driven desperation to avoid the terrifying conclusion that the world has moved on and left you behind.
+
+* Early change theorists, such as Kurt Lewin in the 1940s, described periods of change being followed by a re-stabilization in a new form. If you could survive the change, you could settle into a new, stable normal. But stability isn’t part of a VUCA world. Simply keeping up with constant change requires an unprecedented level of cognitive effort, exacting a significant energy cost. To an exhausted and depleted executive, repeating prior strategies feels like an efficient choice, not because it works, but because repetition has a lower cognitive energy cost than innovation. This is why it’s common to see executives in changing environments doubling-down on an approach which worked for them earlier in their career, regardless of whether or not it is working today
+
+* Despite this intuition that the answer includes learning to pause, most double-down on effort. My clients tell me that pausing increases their anxiety. They worry that if they were to slow down or stop, they’d get behind and never catch up. If they were to slow down, others would move ahead. If they were to pause the flurry of action, even for a moment, their boss would notice, think they’re coasting, conclude that they’re lazy... and there goes their next promotion
+
+* I fire off responses to hundreds of emails, texts and IM’s every day, and I get this high from feeling like I’m being really productive, I’m doing something good for the company. I’m fighting fires, and I’ve gotten pretty good at putting them out. When I have to slow down and really think about the big questions for the company, about things like strategy or culture or how we might be disrupted by new technologies, I get antsy. I’m like an addict looking for the next hit, something I can take action on, where I can feel like I’m accomplishing something
+
+* This addiction to action conceals a fear of being unprepared for a working world which offers lots of ambiguity, and little certainty. If you’re facing familiar problems with known answers, an action-orientation will serve you well enough in the short term. But facing the unknown first requires the courage to admit you don’t know what to do. To adapt to ambiguity is to pause, to take in new information, question prior conclusions, listen to multiple perspectives. These steps make space for the voice of intuition, which tends to whisper rather than yell, and is easily drowned out by the demands of urgent tasks. The urge to take bold action might feel more emotionally satisfying, but cultivating a pause for reflection allows for wisdom to emerge. It’s this kind of wisdom that our organizations and society need the most, particularly from our leaders.
+
+* There’s a paradox here. The faster the world moves, the more change is happening, the slower a leader’s internal cadence must become, in order for wise responses to emerge. We must learn to slow down in order to keep pace
+
+* The urge to act now, urgently, this minute, is a sign that fear is in the driver’s seat. In this fear-fueled threat state, fight or flight responses kick in, and higher brain functions are inhibited. The pre-frontal cortex, the part of the brain which is capable of complex reasoning and decision making, will come online only when we consciously down-regulate our fear responses. Mindfulness techniques including breathing, visualization and affirmation (all of which are inherently slow) have been shown to be effective strategies to down-regulate anxiety.
+
+* In the VUCA world, the real enemy is not external change, but internal exhaustion, cognitive fatigue and emotional burnout. These deplete us of the very resources we need to down-regulate our fear and anxiety, and respond wisely. When rested and relaxed, we have more capacity to sit with ambiguity for longer, to cultivate curiosity, to learn. Self-care is a VUCA imperative, not a luxury.
+
+* To add an additional layer of challenge, anxiety is contagious. When your peers are panicking and reacting, it’s easy to get caught up in the urgency. It takes real courage to resist the pull of the urgent, stay calm and breathe, and step away from work to rest and renew, to make space for new perceptions to come forth. While this reaction is still counter-cultural in many organizations, it’s the way to cultivate the inner conditions which allow disruption to turn into opportunity.
+
+* What we need are less heroes, and more conscious leaders who are brave enough to embrace pausing, reflecting, listening, sensing and intuiting. These are attributes we all have. They’ve been there all along, waiting for permission to emerge. We’ve just been too busy to notice.
