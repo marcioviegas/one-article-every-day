@@ -15,3 +15,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 9. `12/14/2019` [What Kind of Chief Innovation Officer Does Your Company Need?](2019/What_Kind_of_Chief_Innovation_Officer_Does_Your_Company_Need.md)
 10. `12/15/2019` [Is your work ethic becoming a liability?](2019/Is_your_work_ethic_becoming_a_liability.md)
 11. `12/16/2019` [7 Tech CEOs Share Marketing Trends And Predictions For 2020](2019/7_Tech_CEOs_Share_Marketing_Trends_And_Predictions_For_2020.md)
+12. `12/17/2019` [Amazon Rolls Out Quantum-Computing Service](2019/Amazon_Rolls_Out_Quantum_Computing_Service.md)
