@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-class Structure {
+class Automator {
 
     constructor(articleName, link) {
         this.articleTitle = articleName.trim();
@@ -39,4 +39,4 @@ class Structure {
 
 }
 
-module.exports = Structure;
+module.exports = Automator;

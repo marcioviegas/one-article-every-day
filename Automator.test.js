@@ -1,4 +1,4 @@
-const Structure = require("./Structure");
+const Structure = require("./Automator");
 const fs = require("fs");
 
 const temporaryFileToTest = "./temporary.md";
