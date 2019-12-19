@@ -16,3 +16,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 10. `12/15/2019` [Is your work ethic becoming a liability?](2019/Is_your_work_ethic_becoming_a_liability.md)
 11. `12/16/2019` [7 Tech CEOs Share Marketing Trends And Predictions For 2020](2019/7_Tech_CEOs_Share_Marketing_Trends_And_Predictions_For_2020.md)
 12. `12/17/2019` [Amazon Rolls Out Quantum-Computing Service](2019/Amazon_Rolls_Out_Quantum_Computing_Service.md)
+13. `12/18/2019` [Give Yourself The Gift Of The Greatest](2019/Give_Yourself_The_Gift_Of_The_Greatest.md)
