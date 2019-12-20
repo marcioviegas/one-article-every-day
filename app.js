@@ -2,7 +2,7 @@ const Automator = require("./Automator");
 
 const [articleName, link] = process.argv.slice(2);
 
-const structure = new Automator(articleName, link);
+const automator = new Automator(articleName, link);
 
-structure.createEntryForReadMe("./README.md");
-structure.createArticleFile();
+automator.createArticleEntryOnReadMe("./README.md");
+automator.createArticleFile();

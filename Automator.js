@@ -4,37 +4,36 @@ class Automator {
 
     constructor(articleName, link) {
         this.articleTitle = articleName.trim();
-        this.link = link;
+        this.link = link.trim();
 
         this.date = new Date();
         this.year = this.date.getFullYear();
-
-        this.articleNameUnderscored = this.createUnderscoreFile();
-        this.articleFilePath = this.createFilePath();
-
-        this.title = this.createTitle();
         this.formatedDate = `${this.date.getMonth()+1}/${this.date.getUTCDate()}/${this.date.getFullYear()}`;
+
+        this.articleTitleUnderscored = this.createUnderscoreArticleTitle();
+        this.newArticleFilePath = this.createArticleFilePath();
+        this.articleTitleForArticleFile = this.createArticleTitleForArticleFile();
 
     }
 
-    createUnderscoreFile() {
+    createUnderscoreArticleTitle() {
         return this.articleTitle.replace(/ /g,"_");
     }
 
-    createFilePath() {
-        return `${this.year}/${this.articleNameUnderscored}.md`
+    createArticleFilePath() {
+        return `${this.year}/${this.articleTitleUnderscored}.md`
     }
 
-    createTitle() {
+    createArticleTitleForArticleFile() {
         return `# [${this.articleTitle}](${this.link})`
     }
 
-    createEntryForReadMe(readMePath) {
-        fs.appendFileSync(readMePath,`\n1. \`${this.formatedDate}\` [${this.articleTitle}](${this.articleFilePath})`);
+    createArticleEntryOnReadMe(readMePath) {
+        fs.appendFileSync(readMePath,`\n1. \`${this.formatedDate}\` [${this.articleTitle}](${this.newArticleFilePath})`);
     }
 
     createArticleFile() {
-        fs.writeFileSync(`${this.articleFilePath}`, this.title);
+        fs.writeFileSync(`${this.newArticleFilePath}`, this.articleTitleForArticleFile);
     }
 
 }
