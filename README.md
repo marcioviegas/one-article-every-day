@@ -17,3 +17,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `12/16/2019` [7 Tech CEOs Share Marketing Trends And Predictions For 2020](2019/7_Tech_CEOs_Share_Marketing_Trends_And_Predictions_For_2020.md)
 1. `12/17/2019` [Amazon Rolls Out Quantum-Computing Service](2019/Amazon_Rolls_Out_Quantum_Computing_Service.md)
 1. `12/19/2019` [The Evolution of Retail](2019/The_Evolution_of_Retail.md)
+1. `12/21/2019` [The Most Common Crypto Questions And Why You Should Care](2019/The_Most_Common_Crypto_Questions_And_Why_You_Should_Care.md)
