@@ -19,3 +19,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `12/19/2019` [The Evolution of Retail](2019/The_Evolution_of_Retail.md)
 1. `12/21/2019` [The Most Common Crypto Questions And Why You Should Care](2019/The_Most_Common_Crypto_Questions_And_Why_You_Should_Care.md)
 1. `12/23/2019` [The Case for Finally Cleaning Your Desk](2019/The_Case_for_Finally_Cleaning_Your_Desk.md)
+1. `12/24/2019` [WebSockets for fun and profit](2019/WebSockets_for_fun_and_profit.md)
