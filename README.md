@@ -22,3 +22,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `12/24/2019` [WebSockets for fun and profit](2019/WebSockets_for_fun_and_profit.md)
 1. `12/25/2019` [5 Concepts That Will Help Your Team Be More Data-Driven](2019/5_Concepts_That_Will_Help_Your_Team_Be_More_Data-Driven.md)
 1. `12/27/2019` [If Strategy Is So Important, Why Don’t We Make Time for It?](2019/If_Strategy_Is_So_Important,_Why_Don’t_We_Make_Time_for_It?.md)
+1. `12/28/2019` [Why Employees Don’t Share Knowledge with Each Other](2019/Why_Employees_Don’t_Share_Knowledge_with_Each_Other.md)
