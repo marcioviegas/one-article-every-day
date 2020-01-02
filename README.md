@@ -25,4 +25,7 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `12/27/2019` [If Strategy Is So Important, Why Don’t We Make Time for It?](2019/If_Strategy_Is_So_Important_Why_Don’t_We_Make_Time_for_It.md)
 1. `12/28/2019` [Why Employees Don’t Share Knowledge with Each Other](2019/Why_Employees_Don’t_Share_Knowledge_with_Each_Other.md)
 1. `12/29/2019` [How to Write a Resume That Stands Out](2019/How_to_Write_a_Resume_That_Stands_Out.md)
+
+## 2020 
+
 1. `1/2/2020` [The 2019 Good Tech Awards](2020/The_2019_Good_Tech_Awards.md)
