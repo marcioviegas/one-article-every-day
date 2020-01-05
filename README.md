@@ -29,3 +29,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 ## 2020 
 
 1. `1/2/2020` [The 2019 Good Tech Awards](2020/The_2019_Good_Tech_Awards.md)
+1. `1/4/2020` [Building an innovation engine](2020/Building_an_innovation_engine.md)
