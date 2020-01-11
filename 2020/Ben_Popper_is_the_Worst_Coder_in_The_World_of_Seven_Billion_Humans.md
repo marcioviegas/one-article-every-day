@@ -1,6 +1,5 @@
 # [Ben Popper is the Worst Coder in The World of Seven Billion Humans](https://stackoverflow.blog/2019/12/26/ben-popper-is-the-worst-coder-the-world-of-seven-billion-humans/)
 
-
 * One of the most fascinating lessons in the game is that you can write great code to optimize for size or speed, but you can’t necessarily find a solution that simultaneously optimizes for both.
 
 * Before I started playing, I had assumed the ideal software would approach a sort of zen koan, something that packed the greatest possible productivity into the fewest number of characters, because simplicity is an essential virtue that builds on itself. 
