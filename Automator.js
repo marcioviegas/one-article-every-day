@@ -1,4 +1,4 @@
-const fs = require("fs");
+import { appendFileSync, writeFileSync } from "fs";
 
 class Automator {
 
@@ -29,13 +29,13 @@ class Automator {
     }
 
     createArticleEntryOnReadMe(readMePath) {
-        fs.appendFileSync(readMePath,`\n1. \`${this.formatedDate}\` [${this.articleTitle}](${this.newArticleFilePath})`);
+        appendFileSync(readMePath,`\n1. \`${this.formatedDate}\` [${this.articleTitle}](${this.newArticleFilePath})`);
     }
 
     createArticleFile() {
-        fs.writeFileSync(`${this.newArticleFilePath}`, this.articleTitleForArticleFile);
+        writeFileSync(`${this.newArticleFilePath}`, this.articleTitleForArticleFile);
     }
 
 }
 
-module.exports = Automator;
+export default Automator;

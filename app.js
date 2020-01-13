@@ -1,4 +1,4 @@
-const Automator = require("./Automator");
+import Automator from "./Automator.js";
 
 const [articleName, link] = process.argv.slice(2);
 
