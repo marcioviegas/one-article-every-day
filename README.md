@@ -32,4 +32,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `1/4/2020` [Building an innovation engine](2020/Building_an_innovation_engine.md)
 1. `1/6/2020` [Ben Popper is the Worst Coder in The World of Seven Billion Humans](2020/Ben_Popper_is_the_Worst_Coder_in_The_World_of_Seven_Billion_Humans.md)
 1. `1/11/2020` [Unit Test](2020/Unit_Test.md)
-1. `1/14/2020` [Code-wise, cloud-foolish: avoiding bad technology choices](2020/Code-wise,_cloud-foolish:_avoiding_bad_technology_choices.md)
+1. `1/13/2020` [Code-wise, cloud-foolish: avoiding bad technology choices](2020/Code-wise,_cloud-foolish:_avoiding_bad_technology_choices.md)
