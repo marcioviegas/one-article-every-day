@@ -35,3 +35,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `1/13/2020` [Code-wise, cloud-foolish: avoiding bad technology choices](2020/Code-wise,_cloud-foolish:_avoiding_bad_technology_choices.md)
 1. `1/19/2020` [Keep your commits atomic](2020/Keep_your_commits_atomic.md)
 1. `1/19/2020` [Understanding the Git Workflow](2020/Understanding_the_Git_Workflow.md)
+1. `1/19/2020` [Continuous Integration](2020/Continuous_Integration.md)
