@@ -1,4 +1,4 @@
-# OAED - One Article Every Day  
+# OAED - One Article Every Day
 
 During an endless period of time, and once a day, I will be reading and aggregating in this repository, the articles that I noticed interesting. Those could be related to any subject. My only purpose here is to be continually reading new stuff and enjoy the journey while doing it. Please, join me.
 
@@ -26,7 +26,7 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `12/28/2019` [Why Employees Don’t Share Knowledge with Each Other](2019/Why_Employees_Don’t_Share_Knowledge_with_Each_Other.md)
 1. `12/29/2019` [How to Write a Resume That Stands Out](2019/How_to_Write_a_Resume_That_Stands_Out.md)
 
-## 2020 
+## 2020
 
 1. `1/2/2020` [The 2019 Good Tech Awards](2020/The_2019_Good_Tech_Awards.md)
 1. `1/4/2020` [Building an innovation engine](2020/Building_an_innovation_engine.md)
@@ -39,3 +39,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `1/16/2020` [Continuous Integration](2020/Continuous_Integration.md)
 1. `1/17/2020` [Understanding the Git Workflow](2020/Understanding_the_Git_Workflow.md)
 1. `1/18/2020` [Keep your commits atomic](2020/Keep_your_commits_atomic.md)
+1. `1/19/2020` [20 Brutal Truths About Life No One Wants to Admit](2020/20_Brutal_Truths_About_Life_No_One_Wants_to_Admit.md)
