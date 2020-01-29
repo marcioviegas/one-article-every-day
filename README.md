@@ -40,3 +40,4 @@ During an endless period of time, and once a day, I will be reading and aggregat
 1. `1/17/2020` [Understanding the Git Workflow](2020/Understanding_the_Git_Workflow.md)
 1. `1/18/2020` [Keep your commits atomic](2020/Keep_your_commits_atomic.md)
 1. `1/19/2020` [20 Brutal Truths About Life No One Wants to Admit](2020/20_Brutal_Truths_About_Life_No_One_Wants_to_Admit.md)
+1. `1/29/2020` [How to Lose Your Best Employees](2020/How_to_Lose_Your_Best_Employees.md)
