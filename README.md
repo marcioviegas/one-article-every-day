@@ -43,3 +43,4 @@ During an endless period of time, and once ~a day~ in a while, I will be reading
 1. `1/29/2020` [How to Lose Your Best Employees](2020/How_to_Lose_Your_Best_Employees.md)
 1. `3/7/2020` [Laws of UX](2020/Laws_of_UX.md)
 1. `3/8/2020` [Attention Diet](2020/Attention_Diet.md)
+1. `3/11/2020` [Best Practices for Instant Messaging at Work](2020/Best_Practices_for_Instant_Messaging_at_Work.md)
